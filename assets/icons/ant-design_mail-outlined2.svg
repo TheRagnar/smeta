@@ -1,0 +1,16 @@
+<svg width="66" height="65" viewBox="0 0 66 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.862213" y="0.5" width="64" height="64" rx="32" fill="white"/>
+<g clip-path="url(#clip0)">
+<path d="M38.404 16.7866H26.7374C24.3165 16.7866 22.3624 18.7408 22.3624 21.1616V44.495C22.3624 46.9158 24.3165 48.87 26.7374 48.87H38.404C40.8249 48.87 42.779 46.9158 42.779 44.495V21.1616C42.779 18.7408 40.8249 16.7866 38.404 16.7866ZM35.4874 45.9533H29.654V44.495H35.4874V45.9533ZM40.2269 41.5783H24.9144V21.1616H40.2269V41.5783Z" fill="#2091F9"/>
+</g>
+<rect x="0.862213" y="0.5" width="64" height="64" rx="32" stroke="url(#paint0_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="1.49147" y1="65" x2="47.6676" y2="9.9093" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00F3B9"/>
+<stop offset="1" stop-color="#2187FF"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="21" height="34" fill="white" transform="translate(22.3622 15.8281)"/>
+</clipPath>
+</defs>
+</svg>
